@@ -1,0 +1,13 @@
+* {
+    font-family: 'lato', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a {
+    color: #12843f;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.box {
+    border: thin solid red;
+}
